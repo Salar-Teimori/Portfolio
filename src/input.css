@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font vazir */
+@font-face {
+    font-family: "outfit";
+    src: url('../src/font/Outfit-VariableFont_wght.ttf');
+}
